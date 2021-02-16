@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 - :computer: 曾经的主力开发语言
     >  PowerBuilder、C/C++、Golang...... 
 - :floppy_disk: 总是离不开数据库
-    > FoxBase、FoxPro
-     SQLAnywhere、MSSQL、DB2、MySQL
-     Oracle 7.3.4、8.0.5、9i、10gR2、11gR2
+    > FoxBase、FoxPro、
+     SQLAnywhere、MSSQL、DB2、MySQL、
+     Oracle 7.3.4、8.0.5、9i、10gR2、11gR2、
      InfluxDB、Neo4j、ClickHouse......
 - :books: 为了工作，水过一些证
-    > ORACLE 10G OCP
-    IBM Certified Systems Expert
+    > ORACLE 10G OCP、
+    IBM Certified Systems Expert、
     IBM Certified System Administrator
     
 - :trophy: GitHub帐户的巅峰时刻：
