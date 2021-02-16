@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - ✨ 用过一堆数据库
 - ✨ 自由职业
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true">](https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true)
-
+![](https://github-readme-stats.vercel.app/api?username=xcltapestry)
 
 
