@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!-- 
 **xcltapestry/xcltapestry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
 
-![](https://github-readme-stats.vercel.app/api?username=xcltapestry)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true">](https://metrics.lecoq.io/xcltapestry?template=classic)
+
