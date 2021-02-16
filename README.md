@@ -17,8 +17,16 @@ Here are some ideas to get you started:
 ![](https://metrics.lecoq.io/xcltapestry?template=classic)
 -->
 
+**xcltapestry/xcltapestry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[<img align="left" width="60%" src="https://metrics.lecoq.io/xcltapestry?template=classic">](https://metrics.lecoq.io/xcltapestry?template=classic)
+Here are some ideas to get you started:
 
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true">](https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true)
+- 🔭 老研发一枚
+- ✨ 用过一堆开发语言
+- ✨ 用过一堆数据库
+- ✨ 自由职业
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true">](https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true)
+
+
 
