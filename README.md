@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xcltapestry&show_icons=true&theme=radical&hide_title=true" /> 
 
 - :school_satchel: 老研发一枚
-- :computer: 曾经的主力开发语言
+- :computer: 花过很多时间的主力开发语言
     >  PowerBuilder、C/C++、Golang...... 
 - :floppy_disk: 总是离不开数据库
     > FoxBase、FoxPro、
