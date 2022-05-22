@@ -15,7 +15,7 @@
     IBM Certified Systems Expert、
     IBM Certified System Administrator
     
-- :trophy: GitHub帐户的巅峰时刻：
+- :trophy: GitHub帐户的巅峰时刻
     > 15年找工作时发现，按当时github-awards.com网站查到的GitHub帐号排名统计，帐户是深圳市第3,中国区第103名
 
 - :calendar: 职业生涯
